@@ -3,8 +3,8 @@
 
 ## Description
 
-This repository is meant to host a collection of wiki pages for the Stergachis lab. 
-
+This repository is meant to host a collection of wiki pages for the Stergachis lab. Click on Wiki to begin browsing or creating new pages: 
+[WIKI](https://github.com/StergachisLab/Miscellaneous_lab_wiki/wiki)
 
 ## Level of Support
 
